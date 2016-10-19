@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Sports Ball v2.CSharp.Plugins", "Project Sports Ball v2.CSharp.Plugins.csproj", "{0BEBBD2D-45EE-732A-2E4D-262D18453600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Sports Ball v2.CSharp", "Project Sports Ball v2.CSharp.csproj", "{211B10F0-00C2-C549-81FF-3B4E40080358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Sports Ball v2.CSharp.Editor", "Project Sports Ball v2.CSharp.Editor.csproj", "{D04520D0-F6C0-59BA-0E49-28581E2C14AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BEBBD2D-45EE-732A-2E4D-262D18453600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEBBD2D-45EE-732A-2E4D-262D18453600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEBBD2D-45EE-732A-2E4D-262D18453600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEBBD2D-45EE-732A-2E4D-262D18453600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211B10F0-00C2-C549-81FF-3B4E40080358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211B10F0-00C2-C549-81FF-3B4E40080358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211B10F0-00C2-C549-81FF-3B4E40080358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211B10F0-00C2-C549-81FF-3B4E40080358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04520D0-F6C0-59BA-0E49-28581E2C14AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04520D0-F6C0-59BA-0E49-28581E2C14AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04520D0-F6C0-59BA-0E49-28581E2C14AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04520D0-F6C0-59BA-0E49-28581E2C14AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
